@@ -1,2 +1,6 @@
 node_modules/
 dist-rn/
+.idea/
+.expo/
+npm-debug.*
+.DS_Store
